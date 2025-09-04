@@ -169,11 +169,11 @@ public class JuegoAutomatico extends AppCompatActivity {
 
         if (total == 6) {
             hayGanador = true;
-            Toast.makeText(JuegoAutomatico.this, "Ganó la X", Toast.LENGTH_LONG).show();
+            Toast.makeText(JuegoAutomatico.this, "Ganó X: Máquina", Toast.LENGTH_LONG).show();
             desahabilitarBotones();
         } else if (total == 99) {
             hayGanador = true;
-            Toast.makeText(JuegoAutomatico.this, "Ganó la O", Toast.LENGTH_LONG).show();
+            Toast.makeText(JuegoAutomatico.this, "Ganó O: Persona", Toast.LENGTH_LONG).show();
             desahabilitarBotones();
         }
 
