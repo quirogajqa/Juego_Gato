@@ -35,6 +35,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
+        binding.btnAutomatico.setOnClickListener(view -> {
+            Intent intent = new Intent(MainActivity.this, JuegoAutomatico.class);
+            startActivity(intent);
+        });
+
 
     }
 

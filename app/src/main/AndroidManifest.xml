@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JuegoGato">
         <activity
+            android:name=".JuegoAutomatico"
+            android:exported="false" />
+        <activity
             android:name=".JuegoManual"
             android:exported="false" />
         <activity
