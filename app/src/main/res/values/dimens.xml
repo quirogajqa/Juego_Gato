@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="margen">30dp</dimen>
+    <dimen name="margen_land">10dp</dimen>
     <dimen name="margen_icon">10dp</dimen>
+    <dimen name="margen_botones">10dp</dimen>
 </resources>

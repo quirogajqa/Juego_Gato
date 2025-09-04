@@ -5,4 +5,9 @@
     <string name="reiniciar">REINICIAR</string>
     <string name="modo_automatico">Modo: 1 vs PC</string>
     <string name="modo_manual">Modo: 1 vs 1</string>
+    <string name="titulo_principal">Gato Bootcamp Android</string>
+    <string name="descripcion_icono_persona">Icono de una persona</string>
+    <string name="v_s">V/S</string>
+    <string name="descripcion_icono_computador">Icono de un computador</string>
+    <string name="descripcion_recuatro_jugada">Se muestra icono del jugador</string>
 </resources>

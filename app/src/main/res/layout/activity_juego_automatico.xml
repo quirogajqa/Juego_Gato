@@ -35,8 +35,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <com.google.android.material.card.MaterialCardView
@@ -52,7 +51,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -69,7 +69,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -86,7 +87,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -94,8 +96,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <com.google.android.material.card.MaterialCardView
@@ -111,7 +112,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -128,7 +130,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -145,7 +148,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -153,8 +157,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <com.google.android.material.card.MaterialCardView
@@ -170,7 +173,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -187,7 +191,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -204,7 +209,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_blank"
-                    app:tint="@color/white" />
+                    app:tint="@color/white"
+                    android:contentDescription="@string/descripcion_recuatro_jugada"/>
 
             </com.google.android.material.card.MaterialCardView>
 
